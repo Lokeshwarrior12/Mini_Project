@@ -1,4 +1,5 @@
-Hey there!, Hello everyone
+Hey there!, Hello everyone,
+Let me guide you to my mini project,
 
 This is a machine learning based project the objective of this project is to detect the 
 criminals using face-recognition software and also maintaining the criminal database by 
